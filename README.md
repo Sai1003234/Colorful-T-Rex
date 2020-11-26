@@ -1,1 +1,2 @@
-# Colorful-T-Rex
+# colorful-trex
+trex running game 
